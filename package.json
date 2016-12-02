@@ -1,0 +1,15 @@
+{
+  "title": "Fx Hotline",
+  "name": "fxhotline",
+  "version": "0.0.1",
+  "description": "Quickly share your thoughts on Firefox UX.",
+  "main": "index.js",
+  "author": "Kamyar Ardekani <kamyar@mozilla.com>",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
